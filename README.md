@@ -70,4 +70,4 @@ php artisan test
 
 AI assistance was used during development for planning, implementation guidance, debugging, and code review.
 
-Prompt Log screenshots are included in the `/prompts` directory.
+Prompt Log screenshots are included in the "prompt log screenshots" directory.
